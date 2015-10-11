@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  subject: MyString
+  ename: MyString
+  edate: 2015-09-18
+  teacher_id: 
+  enroll_id: 
+
+two:
+  subject: MyString
+  ename: MyString
+  edate: 2015-09-18
+  teacher_id: 
+  enroll_id: 

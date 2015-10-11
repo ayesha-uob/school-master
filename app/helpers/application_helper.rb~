@@ -1,0 +1,5 @@
+module ApplicationHelper
+background_image {
+    background: image-url('header-bg.jpg');
+}
+end

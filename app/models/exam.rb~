@@ -1,0 +1,4 @@
+class Exam < ActiveRecord::Base
+belongs_to :enrolls
+has_many :takes
+end

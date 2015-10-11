@@ -1,0 +1,4 @@
+class Take < ActiveRecord::Base
+belongs_to :teachers
+belongs_to :exams
+end
